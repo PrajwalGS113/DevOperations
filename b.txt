@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello1
+=======
+
+hello1
+>>>>>>> br1
 =======
 
 hello1
