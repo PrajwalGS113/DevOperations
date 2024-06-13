@@ -1,1 +1,6 @@
-hello2
+<<<<<<< HEAD
+hello1
+=======
+
+hello1
+>>>>>>> br1
